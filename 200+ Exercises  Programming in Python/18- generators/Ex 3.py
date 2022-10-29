@@ -5,4 +5,10 @@ def dayname(index):
     yield days[(index + 1) % 7]
 
 for pair in dayname(0):
-    print(pair)
+    print(pair) 
+
+
+
+
+
+    
