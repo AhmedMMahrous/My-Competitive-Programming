@@ -6,4 +6,5 @@ arr = np.array(
     ]
 )
 print(np.ones_like(arr))
-#print((arr*0)+1)
+# Another Sol
+# print((arr*0)+1)
